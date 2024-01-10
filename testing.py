@@ -1,7 +1,0 @@
-
-    
-
-
-
-
-get_tickers()
